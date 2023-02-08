@@ -1,18 +1,21 @@
 # zoolander
-Zoolander Movie Fun
-
 Zoolander Modeling Page
 
+Joke project for practice
 
- Headers
+
+
+
+
+
+
+ Headers at bottom of page
 Arial Black
 Black
 #c21488 font
 #2dd22d background
 
-
 Nav Bar
-Zoolander BG
 Arial Narrow
 Black
 
