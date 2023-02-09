@@ -176,9 +176,3 @@ input[type="reset"] {
 input[type="reset"]:hover {
     background-color: grey;
 }
-
-@media (max-width: 480px) {
-    .navigation, .navlinks, .bodyindex, .lowerlinks, .imagecontainer, .linkbody, fieldset {
-        max-width: 100%;
-    }
-  }
