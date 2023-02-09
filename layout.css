@@ -29,8 +29,9 @@ body {
 
 .derek {
     display: block;
+    max-width: 100%;
+    height: auto;
     margin: auto;
-    max-width: 1200px;
 }
 
 .bodyindex {
