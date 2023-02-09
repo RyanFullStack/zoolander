@@ -179,6 +179,6 @@ input[type="reset"]:hover {
 
 @media (max-width: 480px) {
     .navigation, .navlinks, .bodyindex, .lowerlinks, .imagecontainer, .linkbody, fieldset {
-        width: 100%;
+        max-width: 100%;
     }
   }
