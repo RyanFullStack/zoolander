@@ -16,6 +16,50 @@
 
         <img class="derek" src="images/zoomugatu.jpg">
 
+        <p class="desctext">Please fill in the form below. Unfortunately it won't do anything. Contact Maury!</p>
+
+
+        <form action="/itnowork.php" method="post">
+
+            <fieldset>
+
+                <legend class="legend">&nbsp;&nbsp;Request Contact&nbsp;&nbsp;</legend>
+
+                <div class="item">
+                    <label for="firstname">First Name:</label><br>
+                    <input type="text" id="firstname" name="first_name">
+                </div>
+
+                <div class="item">
+                    <label for="lastname">Last Name:</label><br>
+                    <input type="text" id="lastname" name="last_name">
+                </div>
+                <div class="item">
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="useremail">
+                </div>
+
+
+                <div class="left item">
+                    <label for="comments">Message:</label><br>
+                    </div>
+                    <div class="item">
+                    <textarea id="comments" name="comments"></textarea>
+                </div>
+
+                    <div id="check1">
+                    <input type="checkbox" id="newsletter" name="newslettersignup"></td>
+                    <label id ="small" for="newsletter">I understand this will do nothing</label></td>
+                    </div>
+
+
+                <div class="item">
+                    <input type="reset" value="Submit">
+                </div>
+
+            </fieldset>
+
+        </form>
 
 
         <div class="lowerlinks">
